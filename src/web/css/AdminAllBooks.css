@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    overflow-x: hidden;
+}
+.wrapper{
+    height: auto;  width: 100vw;
+    background: url("../images/library.webp") no-repeat fixed center/cover;
+    display: flex;
+}
+.menu{
+    height: 100vh; width: auto;
+    position: fixed;
+    background-color: #550202;
+    justify-content: center;
+}
+.menu, .table{
+    display: flex;
+    flex-direction: column;
+}
+.menu input[type="submit"]{
+    width: 12vw;
+    margin: 2vh 0;
+    border-width: 0;
+    background-color: transparent;
+}
+.menu input[type="submit"], .delete-book__from input[type="submit"]{
+    padding: 1vh 1vw;
+    font: 100% cursive;
+    color: rgb(255, 253, 251);
+}
+.menu input:focus{
+    outline: 3px inset #550202;
+    background-color: #6c000085;
+}
+input:focus{
+    outline: 1px solid #ffcf40;
+}
+.table {
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    width: 100vw; height: auto;
+}
+.delete-book {
+    margin: 10vh 0 5vh 0;
+    color: white;
+}
+label{
+    font: 120% cursive;
+    margin-right: 2vw;
+}
+.delete-book__from input[type="submit"]{
+    background-color: rgba(248, 61, 4, 0.822);
+    border-color:rgba(172, 149, 120, 0.75);
+    letter-spacing: 1px;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+input[type='number'] {
+    -moz-appearance: textfield;
+    font-size: 1em;
+    width: 10vw;  height: 5vh;
+    margin: 0 1vw 0 0;
+}
+table {
+    margin-top: 15vh;
+    margin-bottom: 4vh;
+}
+
+td {
+    padding: 0 1vw;
+    background: rgba(172, 149, 120, 0.9);
+    text-align: center;
+    border: 2px solid #550202;
+    font-family: cursive;
+}
