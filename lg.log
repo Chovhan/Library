@@ -1,0 +1,782 @@
+2020-01-28 21:24:11 INFO  LoginServlet:25 - LoginServlet, doGet method - is started!
+2020-01-28 21:24:22 INFO  LoginServlet:34 - AddBookServlet, doGet method - is started!
+2020-01-28 21:24:22 INFO  ConnectionPool:28 - Connection was created!
+2020-01-28 21:24:23 INFO  LoginUser:28 - User object was created!
+2020-01-28 21:24:23 INFO  LoginServlet:42 - User object was created
+2020-01-28 21:24:23 INFO  LogInSubmit:19 - Salt from db was decoded!
+2020-01-28 21:24:23 INFO  LogInSubmit:24 - User was find in data base!
+2020-01-28 21:24:23 INFO  LoginServlet:44 - User was authorise!
+2020-01-28 21:24:23 INFO  LoginServlet:25 - LoginServlet, doGet method - is started!
+2020-01-28 21:24:47 INFO  LoginServlet:34 - AddBookServlet, doGet method - is started!
+2020-01-28 21:24:47 INFO  ConnectionPool:28 - Connection was created!
+2020-01-28 21:24:47 INFO  LoginUser:28 - User object was created!
+2020-01-28 21:24:47 INFO  LoginServlet:42 - User object was created
+2020-01-28 21:24:47 INFO  LogInSubmit:19 - Salt from db was decoded!
+2020-01-28 21:24:47 INFO  LogInSubmit:24 - User was find in data base!
+2020-01-28 21:24:47 INFO  LoginServlet:44 - User was authorise!
+2020-01-28 21:24:47 INFO  LoginServlet:25 - LoginServlet, doGet method - is started!
+2020-01-28 21:25:40 INFO  LoginServlet:25 - LoginServlet, doGet method - is started!
+2020-01-28 21:25:48 INFO  LoginServlet:34 - AddBookServlet, doGet method - is started!
+2020-01-28 21:25:48 INFO  ConnectionPool:28 - Connection was created!
+2020-01-28 21:25:51 INFO  LoginUser:28 - User object was created!
+2020-01-28 21:25:51 INFO  LoginServlet:42 - User object was created
+2020-01-28 21:25:51 INFO  LogInSubmit:19 - Salt from db was decoded!
+2020-01-28 21:25:51 INFO  LogInSubmit:24 - User was find in data base!
+2020-01-28 21:25:51 INFO  LoginServlet:44 - User was authorise!
+2020-01-28 21:25:51 INFO  LoginServlet:25 - LoginServlet, doGet method - is started!
+2020-01-28 21:25:53 INFO  LoginServlet:34 - AddBookServlet, doGet method - is started!
+2020-01-28 21:25:53 INFO  ConnectionPool:28 - Connection was created!
+2020-01-28 21:25:53 INFO  LoginUser:28 - User object was created!
+2020-01-28 21:25:53 INFO  LoginServlet:42 - User object was created
+2020-01-28 21:25:53 INFO  LogInSubmit:19 - Salt from db was decoded!
+2020-01-28 21:25:53 INFO  LogInSubmit:24 - User was find in data base!
+2020-01-28 21:25:53 INFO  LoginServlet:44 - User was authorise!
+2020-01-28 21:25:53 INFO  LoginServlet:25 - LoginServlet, doGet method - is started!
+2020-01-28 21:25:57 INFO  LoginServlet:34 - AddBookServlet, doGet method - is started!
+2020-01-28 21:25:57 INFO  ConnectionPool:28 - Connection was created!
+2020-01-28 21:25:57 INFO  LoginUser:28 - User object was created!
+2020-01-28 21:25:57 INFO  LoginServlet:42 - User object was created
+2020-01-28 21:25:57 INFO  LogInSubmit:19 - Salt from db was decoded!
+2020-01-28 21:25:57 INFO  LogInSubmit:24 - User was find in data base!
+2020-01-28 21:25:57 INFO  LoginServlet:44 - User was authorise!
+2020-01-28 21:25:57 INFO  LoginServlet:25 - LoginServlet, doGet method - is started!
+2020-01-28 21:27:55 INFO  LoginServlet:25 - LoginServlet, doGet method - is started!
+2020-01-28 21:28:05 INFO  LoginServlet:34 - AddBookServlet, doGet method - is started!
+2020-01-28 21:28:05 INFO  ConnectionPool:28 - Connection was created!
+2020-01-28 21:28:06 INFO  LoginUser:28 - User object was created!
+2020-01-28 21:28:06 INFO  LoginServlet:42 - User object was created
+2020-01-28 21:28:06 INFO  LogInSubmit:19 - Salt from db was decoded!
+2020-01-28 21:28:06 INFO  LogInSubmit:24 - User was find in data base!
+2020-01-28 21:28:06 INFO  LoginServlet:44 - User was authorise!
+2020-01-28 21:28:06 INFO  LoginServlet:25 - LoginServlet, doGet method - is started!
+2020-01-28 21:29:16 INFO  LoginServlet:25 - LoginServlet, doGet method - is started!
+2020-01-28 21:29:27 INFO  LoginServlet:34 - AddBookServlet, doGet method - is started!
+2020-01-28 21:29:27 INFO  ConnectionPool:28 - Connection was created!
+2020-01-28 21:29:28 INFO  LoginUser:28 - User object was created!
+2020-01-28 21:29:28 INFO  LoginServlet:42 - User object was created
+2020-01-28 21:29:28 INFO  LogInSubmit:19 - Salt from db was decoded!
+2020-01-28 21:29:28 INFO  LogInSubmit:24 - User was find in data base!
+2020-01-28 21:29:28 INFO  LoginServlet:44 - User was authorise!
+2020-01-28 21:29:28 INFO  LoginServlet:25 - LoginServlet, doGet method - is started!
+2020-01-28 21:34:41 INFO  LogInSubmit:19 - Salt from db was decoded!
+2020-01-28 21:34:41 INFO  LogInSubmit:24 - User was find in data base!
+2020-01-28 21:36:38 INFO  LogInSubmit:19 - Salt from db was decoded!
+2020-01-28 21:36:38 INFO  LogInSubmit:24 - User was find in data base!
+2020-01-28 21:40:10 INFO  ConnectionPool:28 - Connection was created!
+2020-01-28 21:40:12 INFO  LoginUser:28 - User object was created!
+2020-01-28 21:40:12 INFO  LogInSubmit:19 - Salt from db was decoded!
+2020-01-28 21:40:12 INFO  LogInSubmit:24 - User was find in data base!
+2020-01-28 21:40:12 INFO  ConnectionPool:28 - Connection was created!
+2020-01-28 21:40:12 INFO  TakenBooks:55 - Data transfer list was created!
+2020-01-28 21:40:12 INFO  AdminServlet:23 - DataTransfer list was created!
+2020-01-28 21:43:20 INFO  AddBookServlet:24 - AddBookServlet?  - is started!
+2020-01-28 21:43:27 INFO  ConnectionPool:28 - Connection was created!
+2020-01-28 21:43:27 INFO  TakenBooks:55 - Data transfer list was created!
+2020-01-28 21:43:27 INFO  AdminServlet:23 - DataTransfer list was created!
+2020-01-28 21:43:34 INFO  AllBooksServlet:24 - AddBookServlet, doGet method - is started!
+2020-01-28 21:43:34 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-28 21:43:34 INFO  ConnectionPool:28 - Connection was created!
+2020-01-28 21:43:34 INFO  AllBooks:25 - All books list was created!
+2020-01-28 21:43:34 INFO  AllBooksServlet:27 - List with all books was created
+2020-01-28 21:44:17 INFO  ConnectionPool:28 - Connection was created!
+2020-01-28 21:44:17 INFO  TakenBooks:55 - Data transfer list was created!
+2020-01-28 21:44:17 INFO  AdminServlet:23 - DataTransfer list was created!
+2020-01-28 21:44:50 INFO  ConnectionPool:28 - Connection was created!
+2020-01-28 21:44:50 INFO  LoginUser:28 - User object was created!
+2020-01-28 21:44:50 INFO  LogInSubmit:19 - Salt from db was decoded!
+2020-01-28 21:44:50 INFO  LogInSubmit:24 - User was find in data base!
+2020-01-28 21:44:50 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-28 21:44:50 INFO  ConnectionPool:28 - Connection was created!
+2020-01-28 21:44:50 INFO  AllBooks:25 - All books list was created!
+2020-01-28 21:44:50 INFO  UserServlet:25 - All books list for user was created!
+2020-01-29 11:51:59 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 11:52:00 INFO  LoginUser:28 - User object was created!
+2020-01-29 11:52:00 INFO  LogInSubmit:19 - Salt from db was decoded!
+2020-01-29 11:52:00 INFO  LogInSubmit:24 - User was find in data base!
+2020-01-29 11:52:00 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 11:52:00 INFO  TakenBooks:55 - Data transfer list was created!
+2020-01-29 11:52:00 INFO  AdminServlet:23 - DataTransfer list was created!
+2020-01-29 11:53:28 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 11:53:29 INFO  TakenBooks:55 - Data transfer list was created!
+2020-01-29 11:53:29 INFO  AdminServlet:23 - DataTransfer list was created!
+2020-01-29 11:53:29 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 11:53:29 INFO  TakenBooks:55 - Data transfer list was created!
+2020-01-29 11:53:29 INFO  AdminServlet:23 - DataTransfer list was created!
+2020-01-29 11:53:43 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 11:53:43 INFO  TakenBooks:55 - Data transfer list was created!
+2020-01-29 11:53:43 INFO  AdminServlet:23 - DataTransfer list was created!
+2020-01-29 11:53:44 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 11:53:44 INFO  TakenBooks:55 - Data transfer list was created!
+2020-01-29 11:53:44 INFO  AdminServlet:23 - DataTransfer list was created!
+2020-01-29 11:55:18 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 11:55:20 INFO  LoginUser:28 - User object was created!
+2020-01-29 11:55:20 INFO  LogInSubmit:19 - Salt from db was decoded!
+2020-01-29 11:55:20 INFO  LogInSubmit:24 - User was find in data base!
+2020-01-29 11:55:20 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 11:55:20 INFO  TakenBooks:55 - Data transfer list was created!
+2020-01-29 11:55:20 INFO  AdminServlet:23 - DataTransfer list was created!
+2020-01-29 11:57:13 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 11:57:13 INFO  TakenBooks:55 - Data transfer list was created!
+2020-01-29 11:57:13 INFO  AdminServlet:23 - DataTransfer list was created!
+2020-01-29 12:09:32 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 12:09:32 INFO  TakenBooks:55 - Data transfer list was created!
+2020-01-29 12:09:32 INFO  AdminServlet:23 - DataTransfer list was created!
+2020-01-29 12:11:05 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 12:11:05 INFO  TakenBooks:55 - Data transfer list was created!
+2020-01-29 12:11:05 INFO  AdminServlet:23 - DataTransfer list was created!
+2020-01-29 12:12:14 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 12:12:15 INFO  TakenBooks:55 - Data transfer list was created!
+2020-01-29 12:12:15 INFO  AdminServlet:23 - DataTransfer list was created!
+2020-01-29 12:13:05 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 12:13:05 INFO  TakenBooks:55 - Data transfer list was created!
+2020-01-29 12:13:05 INFO  AdminServlet:23 - DataTransfer list was created!
+2020-01-29 12:13:14 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 12:13:15 INFO  TakenBooks:55 - Data transfer list was created!
+2020-01-29 12:13:15 INFO  AdminServlet:23 - DataTransfer list was created!
+2020-01-29 12:14:39 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 12:14:39 INFO  TakenBooks:55 - Data transfer list was created!
+2020-01-29 12:14:39 INFO  AdminServlet:23 - DataTransfer list was created!
+2020-01-29 12:14:40 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 12:14:40 INFO  TakenBooks:55 - Data transfer list was created!
+2020-01-29 12:14:40 INFO  AdminServlet:23 - DataTransfer list was created!
+2020-01-29 12:14:45 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 12:14:45 INFO  TakenBooks:55 - Data transfer list was created!
+2020-01-29 12:14:45 INFO  AdminServlet:23 - DataTransfer list was created!
+2020-01-29 12:14:50 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 12:14:50 INFO  TakenBooks:55 - Data transfer list was created!
+2020-01-29 12:14:50 INFO  AdminServlet:23 - DataTransfer list was created!
+2020-01-29 12:21:20 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 12:21:22 INFO  LoginUser:28 - User object was created!
+2020-01-29 12:21:22 INFO  LogInSubmit:19 - Salt from db was decoded!
+2020-01-29 12:21:22 INFO  LogInSubmit:24 - User was find in data base!
+2020-01-29 12:21:22 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 12:21:22 INFO  TakenBooks:55 - Data transfer list was created!
+2020-01-29 12:21:22 INFO  AdminServlet:23 - DataTransfer list was created!
+2020-01-29 12:25:40 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 12:25:40 INFO  TakenBooks:55 - Data transfer list was created!
+2020-01-29 12:25:40 INFO  AdminServlet:23 - DataTransfer list was created!
+2020-01-29 12:26:04 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 12:26:04 INFO  TakenBooks:55 - Data transfer list was created!
+2020-01-29 12:26:04 INFO  AdminServlet:23 - DataTransfer list was created!
+2020-01-29 12:26:12 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 12:26:12 INFO  TakenBooks:55 - Data transfer list was created!
+2020-01-29 12:26:12 INFO  AdminServlet:23 - DataTransfer list was created!
+2020-01-29 12:27:14 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 12:27:15 INFO  LoginUser:28 - User object was created!
+2020-01-29 12:27:15 INFO  LogInSubmit:19 - Salt from db was decoded!
+2020-01-29 12:27:15 INFO  LogInSubmit:24 - User was find in data base!
+2020-01-29 12:27:15 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 12:27:15 INFO  TakenBooks:55 - Data transfer list was created!
+2020-01-29 12:27:15 INFO  AdminServlet:23 - DataTransfer list was created!
+2020-01-29 12:29:19 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 12:29:21 INFO  LoginUser:28 - User object was created!
+2020-01-29 12:29:21 INFO  LogInSubmit:19 - Salt from db was decoded!
+2020-01-29 12:29:21 INFO  LogInSubmit:24 - User was find in data base!
+2020-01-29 12:29:21 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 12:29:21 INFO  TakenBooks:55 - Data transfer list was created!
+2020-01-29 12:29:21 INFO  AdminServlet:23 - DataTransfer list was created!
+2020-01-29 12:29:32 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 12:29:32 INFO  TakenBooks:55 - Data transfer list was created!
+2020-01-29 12:29:32 INFO  AdminServlet:23 - DataTransfer list was created!
+2020-01-29 12:29:45 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 12:29:45 INFO  TakenBooks:55 - Data transfer list was created!
+2020-01-29 12:29:45 INFO  AdminServlet:23 - DataTransfer list was created!
+2020-01-29 13:46:41 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 13:46:41 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 13:48:38 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 13:48:38 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 13:48:59 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 13:48:59 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 14:00:28 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 14:00:28 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 14:24:35 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 14:24:35 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 14:26:25 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 14:26:25 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 14:27:45 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 14:27:45 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 14:30:41 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 14:30:41 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 14:31:14 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 14:31:14 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 14:47:29 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 14:47:30 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 15:38:33 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 15:38:33 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 15:57:33 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 15:57:34 INFO  LoginUser:28 - User object was created!
+2020-01-29 15:57:34 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 15:57:45 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 15:57:45 INFO  LoginUser:28 - User object was created!
+2020-01-29 15:57:45 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 15:57:45 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-29 15:57:45 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 15:57:45 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 15:57:45 INFO  AllBooks:25 - All books list was created!
+2020-01-29 15:57:45 INFO  UserServlet:26 - All books list for user was created!
+2020-01-29 15:57:58 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 15:57:58 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 15:57:58 INFO  AllBooks:25 - All books list was created!
+2020-01-29 15:57:58 INFO  UserServlet:26 - All books list for user was created!
+2020-01-29 15:59:07 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 15:59:07 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 15:59:07 INFO  AllBooks:25 - All books list was created!
+2020-01-29 15:59:07 INFO  UserServlet:26 - All books list for user was created!
+2020-01-29 15:59:18 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 15:59:18 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 15:59:18 INFO  AllBooks:25 - All books list was created!
+2020-01-29 15:59:18 INFO  UserServlet:26 - All books list for user was created!
+2020-01-29 16:00:22 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:00:23 INFO  LoginUser:28 - User object was created!
+2020-01-29 16:00:23 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 16:00:36 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:00:36 INFO  LoginUser:28 - User object was created!
+2020-01-29 16:00:36 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 16:00:36 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-29 16:00:36 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 16:00:36 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:00:36 INFO  AllBooks:25 - All books list was created!
+2020-01-29 16:00:36 INFO  UserServlet:26 - All books list for user was created!
+2020-01-29 16:00:46 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 16:00:46 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:00:46 INFO  AllBooks:25 - All books list was created!
+2020-01-29 16:00:46 INFO  UserServlet:26 - All books list for user was created!
+2020-01-29 16:05:38 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:05:39 INFO  LoginUser:28 - User object was created!
+2020-01-29 16:05:39 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 16:05:39 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-29 16:05:39 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 16:05:39 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:05:39 INFO  AllBooks:25 - All books list was created!
+2020-01-29 16:05:39 INFO  UserServlet:26 - All books list for user was created!
+2020-01-29 16:06:20 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 16:06:20 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:06:20 INFO  AllBooks:25 - All books list was created!
+2020-01-29 16:06:20 INFO  UserServlet:26 - All books list for user was created!
+2020-01-29 16:31:14 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:31:15 INFO  LoginUser:28 - User object was created!
+2020-01-29 16:31:15 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 16:31:15 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-29 16:31:15 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 16:31:15 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:31:15 INFO  AllBooks:25 - All books list was created!
+2020-01-29 16:31:15 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 16:31:42 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:31:42 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 16:31:42 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:31:42 INFO  AllBooks:25 - All books list was created!
+2020-01-29 16:31:42 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 16:34:54 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:34:55 INFO  LoginUser:28 - User object was created!
+2020-01-29 16:34:55 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 16:34:55 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-29 16:34:55 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 16:34:55 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:34:55 INFO  AllBooks:25 - All books list was created!
+2020-01-29 16:34:55 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 16:35:04 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:35:04 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 16:35:04 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:35:04 INFO  AllBooks:25 - All books list was created!
+2020-01-29 16:35:04 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 16:36:20 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:36:21 INFO  LoginUser:28 - User object was created!
+2020-01-29 16:36:21 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 16:36:21 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-29 16:36:21 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 16:36:21 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:36:21 INFO  AllBooks:25 - All books list was created!
+2020-01-29 16:36:21 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 16:36:30 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:36:30 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 16:36:30 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:36:30 INFO  AllBooks:25 - All books list was created!
+2020-01-29 16:36:30 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 16:41:21 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:41:22 INFO  LoginUser:28 - User object was created!
+2020-01-29 16:41:22 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 16:41:22 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-29 16:41:22 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 16:41:22 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:41:22 INFO  AllBooks:25 - All books list was created!
+2020-01-29 16:41:22 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 16:41:37 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:41:38 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 16:41:38 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:41:38 INFO  AllBooks:25 - All books list was created!
+2020-01-29 16:41:38 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 16:45:46 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:45:47 INFO  LoginUser:28 - User object was created!
+2020-01-29 16:45:47 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 16:45:47 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-29 16:45:47 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 16:45:47 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:45:48 INFO  AllBooks:25 - All books list was created!
+2020-01-29 16:45:48 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 16:46:11 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:46:11 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 16:46:11 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:46:11 INFO  AllBooks:25 - All books list was created!
+2020-01-29 16:46:11 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 16:47:52 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:47:53 INFO  LoginUser:28 - User object was created!
+2020-01-29 16:47:53 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 16:47:53 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-29 16:47:53 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 16:47:53 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:47:53 INFO  AllBooks:25 - All books list was created!
+2020-01-29 16:47:53 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 16:48:04 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:48:04 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 16:48:04 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:48:04 INFO  AllBooks:25 - All books list was created!
+2020-01-29 16:48:04 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 16:52:30 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:52:32 INFO  LoginUser:28 - User object was created!
+2020-01-29 16:52:32 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 16:52:32 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-29 16:52:32 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 16:52:32 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:52:33 INFO  AllBooks:25 - All books list was created!
+2020-01-29 16:52:33 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 16:52:52 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:52:53 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 16:52:53 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:52:53 INFO  AllBooks:25 - All books list was created!
+2020-01-29 16:52:53 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 16:55:48 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:55:49 INFO  LoginUser:28 - User object was created!
+2020-01-29 16:55:49 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 16:55:49 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-29 16:55:49 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 16:55:49 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:55:49 INFO  AllBooks:25 - All books list was created!
+2020-01-29 16:55:49 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 16:55:59 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:55:59 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 16:55:59 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 16:55:59 INFO  AllBooks:25 - All books list was created!
+2020-01-29 16:55:59 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 17:04:24 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 17:04:25 INFO  LoginUser:28 - User object was created!
+2020-01-29 17:04:25 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 17:04:25 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-29 17:04:25 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 17:04:25 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 17:04:25 INFO  AllBooks:25 - All books list was created!
+2020-01-29 17:04:25 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 17:04:36 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 17:04:37 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 17:04:37 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 17:04:37 INFO  AllBooks:25 - All books list was created!
+2020-01-29 17:04:37 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 17:06:06 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 17:06:07 INFO  LoginUser:28 - User object was created!
+2020-01-29 17:06:07 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 17:06:07 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-29 17:06:07 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 17:06:07 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 17:06:07 INFO  AllBooks:25 - All books list was created!
+2020-01-29 17:06:07 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 17:06:16 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 17:06:16 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 17:06:16 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 17:06:16 INFO  AllBooks:25 - All books list was created!
+2020-01-29 17:06:16 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 17:09:29 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 17:09:30 INFO  LoginUser:28 - User object was created!
+2020-01-29 17:09:30 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 17:09:30 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-29 17:09:30 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 17:09:30 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 17:09:30 INFO  AllBooks:25 - All books list was created!
+2020-01-29 17:09:30 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 17:09:38 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 17:09:38 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 17:09:38 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 17:09:38 INFO  AllBooks:25 - All books list was created!
+2020-01-29 17:09:38 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 17:20:49 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 17:20:50 INFO  LoginUser:28 - User object was created!
+2020-01-29 17:20:50 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 17:20:50 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-29 17:20:50 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 17:20:50 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 17:20:50 INFO  AllBooks:25 - All books list was created!
+2020-01-29 17:20:50 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 17:21:05 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 17:21:05 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 17:21:05 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 17:21:05 INFO  AllBooks:25 - All books list was created!
+2020-01-29 17:21:05 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 17:22:41 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 17:22:42 INFO  LoginUser:28 - User object was created!
+2020-01-29 17:22:42 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 17:22:42 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-29 17:22:42 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 17:22:42 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 17:22:42 INFO  AllBooks:25 - All books list was created!
+2020-01-29 17:22:42 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 17:22:52 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 17:22:52 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 17:22:52 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 17:22:52 INFO  AllBooks:25 - All books list was created!
+2020-01-29 17:22:52 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 17:38:53 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 17:38:54 INFO  LoginUser:28 - User object was created!
+2020-01-29 17:38:54 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 17:39:01 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 17:39:01 INFO  LoginUser:28 - User object was created!
+2020-01-29 17:39:01 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 17:39:01 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-29 17:39:01 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 17:39:01 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 17:39:01 INFO  AllBooks:25 - All books list was created!
+2020-01-29 17:39:01 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 17:39:12 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 17:39:12 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 17:39:12 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 17:39:12 INFO  AllBooks:25 - All books list was created!
+2020-01-29 17:39:12 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 17:40:47 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 17:40:48 INFO  LoginUser:28 - User object was created!
+2020-01-29 17:40:48 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 17:40:48 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-29 17:40:48 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 17:40:48 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 17:40:48 INFO  AllBooks:25 - All books list was created!
+2020-01-29 17:40:48 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 17:40:57 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 17:40:57 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 17:40:57 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 17:40:57 INFO  AllBooks:25 - All books list was created!
+2020-01-29 17:40:57 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 17:42:21 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 17:42:22 INFO  LoginUser:28 - User object was created!
+2020-01-29 17:42:22 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 17:42:22 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-29 17:42:22 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 17:42:22 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 17:42:22 INFO  AllBooks:25 - All books list was created!
+2020-01-29 17:42:22 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 17:42:29 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 17:42:29 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 17:42:29 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 17:42:29 INFO  AllBooks:25 - All books list was created!
+2020-01-29 17:42:29 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 17:53:24 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 17:53:25 INFO  LoginUser:28 - User object was created!
+2020-01-29 17:53:25 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 17:53:25 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-29 17:53:25 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 17:53:25 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 17:53:25 INFO  AllBooks:25 - All books list was created!
+2020-01-29 17:53:25 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 17:53:34 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 17:53:35 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 17:53:35 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 17:53:35 INFO  AllBooks:25 - All books list was created!
+2020-01-29 17:53:35 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 18:02:01 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:02:02 INFO  LoginUser:28 - User object was created!
+2020-01-29 18:02:02 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 18:02:02 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-29 18:02:02 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 18:02:02 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:02:02 INFO  AllBooks:25 - All books list was created!
+2020-01-29 18:02:02 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 18:02:18 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:02:18 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 18:02:18 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:02:18 INFO  AllBooks:25 - All books list was created!
+2020-01-29 18:02:18 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 18:02:57 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:02:57 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 18:02:57 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:02:57 INFO  AllBooks:25 - All books list was created!
+2020-01-29 18:02:57 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 18:06:07 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:06:08 INFO  LoginUser:28 - User object was created!
+2020-01-29 18:06:08 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 18:06:08 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-29 18:06:08 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 18:06:08 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:06:08 INFO  AllBooks:25 - All books list was created!
+2020-01-29 18:06:08 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 18:06:19 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:06:19 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 18:06:19 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:06:19 INFO  AllBooks:25 - All books list was created!
+2020-01-29 18:06:19 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 18:07:35 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:07:36 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 18:07:36 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:07:36 INFO  AllBooks:25 - All books list was created!
+2020-01-29 18:07:36 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 18:16:21 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:16:22 INFO  LoginUser:28 - User object was created!
+2020-01-29 18:16:22 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 18:16:22 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-29 18:16:22 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 18:16:22 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:16:22 INFO  AllBooks:25 - All books list was created!
+2020-01-29 18:16:22 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 18:16:36 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:16:36 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 18:16:36 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:16:36 INFO  AllBooks:25 - All books list was created!
+2020-01-29 18:16:36 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 18:19:18 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:19:19 INFO  LoginUser:28 - User object was created!
+2020-01-29 18:19:19 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 18:19:19 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-29 18:19:19 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 18:19:19 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:19:19 INFO  AllBooks:25 - All books list was created!
+2020-01-29 18:19:19 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 18:19:30 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:19:30 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 18:19:30 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:19:30 INFO  AllBooks:25 - All books list was created!
+2020-01-29 18:19:30 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 18:27:49 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:27:50 INFO  LoginUser:28 - User object was created!
+2020-01-29 18:27:50 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 18:27:58 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:27:58 INFO  LoginUser:28 - User object was created!
+2020-01-29 18:27:58 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 18:27:58 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-29 18:27:58 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 18:27:58 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:27:58 INFO  AllBooks:25 - All books list was created!
+2020-01-29 18:27:58 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 18:28:26 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:28:26 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 18:28:26 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:28:26 INFO  AllBooks:25 - All books list was created!
+2020-01-29 18:28:27 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 18:29:45 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:29:46 INFO  LoginUser:28 - User object was created!
+2020-01-29 18:29:46 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 18:29:46 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-29 18:29:46 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 18:29:46 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:29:46 INFO  AllBooks:25 - All books list was created!
+2020-01-29 18:29:46 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 18:29:56 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:29:56 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 18:29:56 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:29:56 INFO  AllBooks:25 - All books list was created!
+2020-01-29 18:29:56 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 18:35:54 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:35:55 INFO  LoginUser:28 - User object was created!
+2020-01-29 18:35:55 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 18:35:55 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-29 18:35:55 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 18:35:55 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:35:55 INFO  AllBooks:25 - All books list was created!
+2020-01-29 18:35:55 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 18:36:06 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:36:06 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 18:36:06 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:36:06 INFO  AllBooks:25 - All books list was created!
+2020-01-29 18:36:06 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 18:38:02 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:38:03 INFO  LoginUser:28 - User object was created!
+2020-01-29 18:38:03 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 18:38:03 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-29 18:38:03 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 18:38:03 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:38:03 INFO  AllBooks:25 - All books list was created!
+2020-01-29 18:38:03 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 18:38:12 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:38:12 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 18:38:12 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:38:12 INFO  AllBooks:25 - All books list was created!
+2020-01-29 18:38:12 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 18:46:40 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:46:42 INFO  LoginUser:28 - User object was created!
+2020-01-29 18:46:42 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 18:46:42 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-29 18:46:42 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 18:46:42 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:46:42 INFO  AllBooks:25 - All books list was created!
+2020-01-29 18:46:42 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 18:46:52 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:46:52 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 18:46:52 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:46:52 INFO  AllBooks:25 - All books list was created!
+2020-01-29 18:46:52 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 18:48:08 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:48:10 INFO  LoginUser:28 - User object was created!
+2020-01-29 18:48:10 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 18:48:10 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-29 18:48:10 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 18:48:10 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:48:10 INFO  AllBooks:25 - All books list was created!
+2020-01-29 18:48:10 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 18:48:19 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:48:19 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 18:48:19 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:48:19 INFO  AllBooks:25 - All books list was created!
+2020-01-29 18:48:19 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 18:49:23 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:49:23 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 18:49:23 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:49:23 INFO  AllBooks:25 - All books list was created!
+2020-01-29 18:49:23 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 18:51:39 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:51:40 INFO  LoginUser:28 - User object was created!
+2020-01-29 18:51:40 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 18:51:40 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-29 18:51:40 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 18:51:40 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:51:40 INFO  AllBooks:25 - All books list was created!
+2020-01-29 18:51:40 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 18:51:51 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:51:51 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 18:51:51 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:51:51 INFO  AllBooks:25 - All books list was created!
+2020-01-29 18:51:51 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 18:52:16 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:52:16 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 18:52:16 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:52:16 INFO  AllBooks:25 - All books list was created!
+2020-01-29 18:52:16 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 18:52:29 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:52:29 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 18:52:29 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:52:29 INFO  AllBooks:25 - All books list was created!
+2020-01-29 18:52:29 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 18:52:45 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:52:45 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 18:52:45 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:52:45 INFO  AllBooks:25 - All books list was created!
+2020-01-29 18:52:45 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 18:53:15 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:53:15 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 18:53:15 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:53:15 INFO  AllBooks:25 - All books list was created!
+2020-01-29 18:53:15 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 18:53:36 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:53:36 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 18:53:36 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:53:36 INFO  AllBooks:25 - All books list was created!
+2020-01-29 18:53:36 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 18:53:43 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 18:53:43 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:53:43 INFO  AllBooks:25 - All books list was created!
+2020-01-29 18:53:43 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 18:53:55 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 18:53:55 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:53:55 INFO  AllBooks:25 - All books list was created!
+2020-01-29 18:53:55 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 18:54:25 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 18:54:25 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:54:25 INFO  AllBooks:25 - All books list was created!
+2020-01-29 18:54:25 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 18:54:33 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 18:54:33 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:54:34 INFO  AllBooks:25 - All books list was created!
+2020-01-29 18:54:34 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 18:54:40 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-29 18:54:40 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 18:54:40 INFO  AllBooks:25 - All books list was created!
+2020-01-29 18:54:40 INFO  UserServlet:28 - All books list for user was created!
+2020-01-29 19:11:12 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 19:11:13 INFO  LoginUser:28 - User object was created!
+2020-01-29 19:11:13 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 19:11:13 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-29 19:11:13 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 19:11:13 INFO  TakenBooks:55 - Data transfer list was created!
+2020-01-29 19:11:13 INFO  AdminServlet:23 - DataTransfer list was created!
+2020-01-29 19:11:38 INFO  AddBookServlet:24 - AddBookServlet?  - is started!
+2020-01-29 19:11:50 INFO  AddBookServlet:24 - AddBookServlet?  - is started!
+2020-01-29 19:12:04 INFO  AddBookServlet:24 - AddBookServlet?  - is started!
+2020-01-29 19:12:04 INFO  AddBookServlet:24 - AddBookServlet?  - is started!
+2020-01-29 19:12:22 INFO  AddBookServlet:24 - AddBookServlet?  - is started!
+2020-01-29 19:12:32 INFO  AddBookServlet:24 - AddBookServlet?  - is started!
+2020-01-29 19:12:35 INFO  AddBookServlet:24 - AddBookServlet?  - is started!
+2020-01-29 19:12:38 INFO  AddBookServlet:24 - AddBookServlet?  - is started!
+2020-01-29 19:14:36 INFO  AddBookServlet:24 - AddBookServlet?  - is started!
+2020-01-29 19:14:47 INFO  AddBookServlet:24 - AddBookServlet?  - is started!
+2020-01-29 19:14:55 INFO  AddBookServlet:24 - AddBookServlet?  - is started!
+2020-01-29 19:16:01 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 19:16:02 INFO  LoginUser:28 - User object was created!
+2020-01-29 19:16:02 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 19:16:02 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-29 19:16:02 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 19:16:02 INFO  TakenBooks:55 - Data transfer list was created!
+2020-01-29 19:16:02 INFO  AdminServlet:23 - DataTransfer list was created!
+2020-01-29 19:16:13 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 19:16:13 INFO  TakenBooks:55 - Data transfer list was created!
+2020-01-29 19:16:13 INFO  AdminServlet:23 - DataTransfer list was created!
+2020-01-29 19:16:20 INFO  AddBookServlet:24 - AddBookServlet?  - is started!
+2020-01-29 19:16:33 INFO  AddBookServlet:24 - AddBookServlet?  - is started!
+2020-01-29 19:19:48 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 19:19:50 INFO  LoginUser:28 - User object was created!
+2020-01-29 19:19:50 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-29 19:19:50 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-29 19:19:50 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 19:19:50 INFO  TakenBooks:55 - Data transfer list was created!
+2020-01-29 19:19:50 INFO  AdminServlet:23 - DataTransfer list was created!
+2020-01-29 19:20:13 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 19:20:13 INFO  TakenBooks:55 - Data transfer list was created!
+2020-01-29 19:20:13 INFO  AdminServlet:23 - DataTransfer list was created!
+2020-01-29 19:20:14 INFO  ConnectionPool:28 - Connection was created!
+2020-01-29 19:20:14 INFO  TakenBooks:55 - Data transfer list was created!
+2020-01-29 19:20:14 INFO  AdminServlet:23 - DataTransfer list was created!
+2020-01-30 11:15:26 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-30 11:15:26 INFO  ConnectionPool:28 - Connection was created!
+2020-01-30 11:23:16 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-30 11:23:16 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-30 11:25:30 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-30 11:25:30 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-30 11:33:38 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-30 11:33:38 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-30 11:35:17 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-30 11:38:00 INFO  ISignInSubmit:16 - Salt for sign-in user was created!
+2020-01-30 11:38:01 INFO  PasswordSalt:40 - Salt was generated!
+2020-01-30 11:39:56 INFO  ISignInSubmit:16 - Salt for sign-in user was created!
+2020-01-30 11:39:57 INFO  PasswordSalt:40 - Salt was generated!
+2020-01-30 11:39:57 INFO  ISignInSubmit:25 - Password was hashed!
+2020-01-30 11:43:06 INFO  ISignInSubmit:25 - Password was hashed!
+2020-01-30 15:43:40 INFO  ConnectionPool:28 - Connection was created!
+2020-01-30 15:43:41 INFO  LoginUser:28 - User object was created!
+2020-01-30 15:43:41 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-30 15:43:41 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-30 15:43:41 INFO  ConnectionPool:28 - Connection was created!
+2020-01-30 15:43:41 INFO  TakenBooks:55 - Data transfer list was created!
+2020-01-30 15:43:41 INFO  AdminServlet:23 - DataTransfer list was created!
+2020-01-30 15:43:51 INFO  AddBookServlet:24 - AddBookServlet?  - is started!
+2020-01-30 15:43:58 INFO  AllBooksServlet:24 - AddBookServlet, doGet method - is started!
+2020-01-30 15:43:58 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-30 15:43:58 INFO  ConnectionPool:28 - Connection was created!
+2020-01-30 15:43:58 INFO  AllBooks:25 - All books list was created!
+2020-01-30 15:43:58 INFO  AllBooksServlet:27 - List with all books was created
+2020-01-30 15:45:01 INFO  ConnectionPool:28 - Connection was created!
+2020-01-30 15:45:01 INFO  LoginUser:28 - User object was created!
+2020-01-30 15:45:01 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-01-30 15:45:01 INFO  LogInSubmit:25 - User was find in data base!
+2020-01-30 15:45:01 INFO  AllBooks:17 - GetAllBooksFromDb function started!
+2020-01-30 15:45:01 INFO  ConnectionPool:28 - Connection was created!
+2020-01-30 15:45:01 INFO  AllBooks:25 - All books list was created!
+2020-01-30 15:45:01 INFO  UserServlet:28 - All books list for user was created!
+2020-01-30 15:47:03 INFO  ISignInSubmit:25 - Password was hashed!
+2020-01-30 16:11:27 INFO  PasswordSalt:40 - Salt was generated!
+2020-01-30 16:11:34 INFO  PasswordSalt:40 - Salt was generated!
+2020-01-30 16:26:54 INFO  ConnectionPool:28 - Connection was created!
+2020-02-01 09:10:06 INFO  ConnectionPool:28 - Connection was created!
+2020-02-01 09:10:07 INFO  LoginUser:28 - User object was created!
+2020-02-01 09:10:07 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-02-01 09:10:07 INFO  LogInSubmit:25 - User was find in data base!
+2020-02-01 09:10:07 INFO  ConnectionPool:28 - Connection was created!
+2020-02-01 09:10:07 INFO  TakenBooks:55 - Data transfer list was created!
+2020-02-01 09:10:07 INFO  AdminServlet:23 - DataTransfer list was created!
+2020-02-03 17:18:10 INFO  ConnectionPool:28 - Connection was created!
+2020-02-03 17:18:11 INFO  LoginUser:28 - User object was created!
+2020-02-03 17:18:11 INFO  LogInSubmit:20 - Salt from db was decoded!
+2020-02-03 17:18:11 INFO  LogInSubmit:25 - User was find in data base!
+2020-02-03 17:18:11 INFO  ConnectionPool:28 - Connection was created!
+2020-02-03 17:18:11 INFO  TakenBooks:55 - Data transfer list was created!
+2020-02-03 17:18:11 INFO  AdminServlet:23 - DataTransfer list was created!
