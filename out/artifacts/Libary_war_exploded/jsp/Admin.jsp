@@ -4,7 +4,6 @@
 <%@ page isELIgnored="false" %>
 
 <fmt:setLocale value="${param.lang}" />
-<fmt:setLocale value="ru"/>
 <fmt:setBundle basename="admin" />
 
 <% if(request.getCharacterEncoding() == null) {
@@ -67,15 +66,11 @@
             </table>
         </div>
 
-<%--        <div class="translate">--%>
-<%--            <a href="?lang=en" class="language"><img class="language" src="../images/eng.png" alt="ENG" ></a>--%>
-<%--            <a href="?lang=ru" class="language"><img class="language" src="../images/ru.png" alt="RU"></a>--%>
-<%--            <a href="?lang=ua" class="language"><img class="language" src="../images/ua.png" alt="UA"></a>--%>
-<%--        </div>--%>
-
-<%--        <iframe src="" seamless allowtransparency align="center" width="80%" height="90%">--%>
-
-<%--        </iframe>--%>
+        <div class="translate">
+            <a href="?lang=en" class="language"><img class="language" src="../images/eng.png" alt="ENG" ></a>
+            <a href="?lang=ru" class="language"><img class="language" src="../images/ru.png" alt="RU"></a>
+            <a href="?lang=ua" class="language"><img class="language" src="../images/ua.png" alt="UA"></a>
+        </div>
     </div>
 
 </div>
