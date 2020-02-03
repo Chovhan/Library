@@ -58,7 +58,7 @@ public class AddBookTransaction {
         }
     }
 
-    public void addBookTitleToDb(Connection connection, String title) throws SQLException {
+    private void addBookTitleToDb(Connection connection, String title) throws SQLException {
         System.out.println("addBookTitleToDb()");
         logger.info("Book title was added to db");
         PreparedStatement addBookTitle = connection.prepareStatement("Insert into books(title) values (?);");
@@ -66,7 +66,7 @@ public class AddBookTransaction {
         addBookTitle.executeUpdate();
     }
 
-    public boolean checkAuthorInDb(Connection connection, String authorFirstName, String authorLastName, String birthDate, String birthCountry) throws SQLException {
+    private boolean checkAuthorInDb(Connection connection, String authorFirstName, String authorLastName, String birthDate, String birthCountry) throws SQLException {
         System.out.println("checkAuthorInDb()");
         boolean authorInDb = false;
         PreparedStatement checkBook = connection.prepareStatement("select * " +
@@ -82,7 +82,7 @@ public class AddBookTransaction {
         return authorInDb;
     }
 
-    public void addAuthorToDb(Connection connection, String authorFirstName, String authorLastName, String birthCountry, String birthDate) throws SQLException {
+    private void addAuthorToDb(Connection connection, String authorFirstName, String authorLastName, String birthCountry, String birthDate) throws SQLException {
         logger.info("New author was added to db");
         PreparedStatement addAuthor = connection.prepareStatement("" +
                 "Insert into author(firstName, lastName, birthDate, birthCountry) " +
@@ -94,13 +94,13 @@ public class AddBookTransaction {
         addAuthor.executeUpdate();
     }
 
-    public void addMaxAuthorIdVar(Connection connection) throws SQLException {
+    private void addMaxAuthorIdVar(Connection connection) throws SQLException {
         logger.info("Variable with new author id was set!");
         PreparedStatement createMaxAuthorIdVar = connection.prepareStatement("Set @maxAuthorId=(Select Max(authorId) from author);");
         createMaxAuthorIdVar.executeUpdate();
     }
 
-    public void setAuthorIdVar(Connection connection, String firstName, String lastName, String birthDate, String birthCounty) throws SQLException {
+    private void setAuthorIdVar(Connection connection, String firstName, String lastName, String birthDate, String birthCounty) throws SQLException {
         System.out.println("setAuthorIdVar()");
         logger.info("Variable with author id was set!");
         System.out.println(firstName + " " + lastName + " " + birthDate + " " + birthCounty);
@@ -117,7 +117,7 @@ public class AddBookTransaction {
         System.out.println("MaxAuthorId is set!");
     }
 
-    public void addAuthoringToDb(Connection connection) throws SQLException {
+    private void addAuthoringToDb(Connection connection) throws SQLException {
         System.out.println("addAuthoringToDb()");
         logger.info("Authoring row was added to data base!");
         PreparedStatement createMaxBookIdVar = connection.prepareStatement("Set @maxBookId=(Select Max(bookId) from books);");
@@ -127,7 +127,7 @@ public class AddBookTransaction {
         addAuthoringRow.executeUpdate();
     }
 
-    public boolean checkPublishingHouseInDb(Connection connection, String pbName, String pbCountry, String pbCity, String pbStreet) throws SQLException {
+    private boolean checkPublishingHouseInDb(Connection connection, String pbName, String pbCountry, String pbCity, String pbStreet) throws SQLException {
         System.out.println("checkPublishingHouseInDb()");
         boolean pbInDb = false;
         PreparedStatement checkPb = connection.prepareStatement(
@@ -148,14 +148,14 @@ public class AddBookTransaction {
         return pbInDb;
     }
 
-    public void addMaxPublishinghouseIdVar(Connection connection) throws SQLException {
+    private void addMaxPublishinghouseIdVar(Connection connection) throws SQLException {
         logger.info("Variable with new publishing house was added!");
         PreparedStatement createVarMaxPbId = connection.prepareStatement(
                 "Set @maxPbId=(Select Max(publishinghouseid) from publishinghouse);");
         createVarMaxPbId.executeUpdate();
     }
 
-    public void setMaxPublishingHouseIdVar(Connection connection, String pbName, String pbCountry, String pbCity, String pbStreet) throws SQLException {
+    private void setMaxPublishingHouseIdVar(Connection connection, String pbName, String pbCountry, String pbCity, String pbStreet) throws SQLException {
         logger.info("Variable with publishing house was added!");
         PreparedStatement createVarMaxPbId = connection.prepareStatement(
                 "Set @maxPbId=(Select publishinghouseId " +
@@ -171,7 +171,7 @@ public class AddBookTransaction {
         createVarMaxPbId.executeUpdate();
     }
 
-    public void addPublishingHouseToDb(Connection connection, String pbName, String pbCountry, String pbCity, String pbStreet) throws SQLException {
+    private void addPublishingHouseToDb(Connection connection, String pbName, String pbCountry, String pbCity, String pbStreet) throws SQLException {
         logger.info("Publishing house was added to data base!");
         PreparedStatement addPublishingHouse = connection.prepareStatement("" +
                 "Insert into publishinghouse(publishingHouseName, country, city, street) " +
@@ -183,14 +183,14 @@ public class AddBookTransaction {
         addPublishingHouse.executeUpdate();
     }
 
-    public void addContractToDb(Connection connection) throws SQLException {
+    private void addContractToDb(Connection connection) throws SQLException {
         logger.info("Contract row was added to data base!");
         PreparedStatement addContractRow = connection.prepareStatement(
                 "Insert into contract(authorId, publishingHouseId) Values (@maxAuthorId, @maxPbId);");
         addContractRow.executeUpdate();
     }
 
-    public void addIsbnToDb(Connection connection, String isbn) throws SQLException {
+    private void addIsbnToDb(Connection connection, String isbn) throws SQLException {
         logger.info("Isbn was added to data base!");
         PreparedStatement addIsbn = connection.prepareStatement(
                 "Insert into isbn(bookId, publishingHouseId, isbnNumber) Values (@maxBookId, @maxPbId, ?);");
@@ -198,7 +198,7 @@ public class AddBookTransaction {
         addIsbn.executeUpdate();
     }
 
-    public void addBookInstanceToDb(Connection connection) throws SQLException {
+    private void addBookInstanceToDb(Connection connection) throws SQLException {
         logger.info("Book instance row was added to data base!");
         PreparedStatement addBookInstance = connection.prepareStatement(
                 "Insert into bookistance(bookId, bookAvailibility) Values (@maxBookId, 'Yes');");

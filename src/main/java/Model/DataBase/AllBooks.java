@@ -30,7 +30,7 @@ public class AllBooks {
         return booksList;
     }
 
-    public Book createBookObject(ResultSet resultSet) throws SQLException {
+    private Book createBookObject(ResultSet resultSet) throws SQLException {
         return new Book(resultSet.getString("title"),
                 resultSet.getString("firstName"),
                 resultSet.getString("lastName"),
@@ -39,7 +39,7 @@ public class AllBooks {
                 resultSet.getString("bookAvailibility"));
     }
 
-    public ResultSet getAllBooksSet() throws SQLException {
+    private ResultSet getAllBooksSet() throws SQLException {
         PreparedStatement preparedStatement = ConnectionPool.getConnection().prepareStatement("" +
                 "Select author.firstName, author.lastName, books.title, bookistance.bookId, bookistance.bookInstanceId, bookistance.bookAvailibility " +
                 "from author " +

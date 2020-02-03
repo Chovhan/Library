@@ -38,7 +38,7 @@ public class TakeBookTransaction {
         connection.close();
     }
 
-    public void addNoteToDb(Connection connection, int userId, int bookInstanceId) throws SQLException {
+    private void addNoteToDb(Connection connection, int userId, int bookInstanceId) throws SQLException {
         PreparedStatement preparedStatement = connection.prepareStatement("" +
                 "Insert bookgivetime(giveTime, visitorId, bookInstanceId) Values (Now(), ?, ?);");
         preparedStatement.setString(1, String.valueOf(userId));
@@ -46,7 +46,7 @@ public class TakeBookTransaction {
         preparedStatement.executeUpdate();
     }
 
-    public void changeTableInDb(Connection connection, int bookInstanceId) throws SQLException {
+    private void changeTableInDb(Connection connection, int bookInstanceId) throws SQLException {
         PreparedStatement preparedStatement = connection.prepareStatement("" +
                 "UPDATE bookistance SET bookAvailibility = (?) WHERE bookInstanceId = (?)");
         preparedStatement.setString(1, "No");
@@ -61,10 +61,10 @@ public class TakeBookTransaction {
 //        setVar.executeUpdate();
 //    }
 
-    public void createEventInDb(Connection connection, int bookInstanceId) throws SQLException {
+    private void createEventInDb(Connection connection, int bookInstanceId) throws SQLException {
         PreparedStatement newEvent = connection.prepareStatement(
                 "Create Event myevent" + bookInstanceId + " " +
-                        "On Schedule AT CURRENT_TIMESTAMP + INTERVAL 10 SECOND " +
+                        "On Schedule AT CURRENT_TIMESTAMP + INTERVAL 60 SECOND " +
                         "Do " +
                         "Begin " +
                         "UPDATE bookistance SET bookAvailibility = 'Yes' WHERE bookInstanceId = (?); " +

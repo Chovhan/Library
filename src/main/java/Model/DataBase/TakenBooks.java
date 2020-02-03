@@ -17,14 +17,15 @@ public class TakenBooks {
         ArrayList<DataTransfer> dataTransfersArray = new ArrayList<>();
         try {
             Connection connection = ConnectionPool.getConnection();
-            dataTransfersArray = fillDataTransferArray(getResultSet(connection), dataTransfersArray);
+            dataTransfersArray = fillDataTransferArray(getResultSet(connection));
+            System.out.println(dataTransfersArray);
         } catch (SQLException e) {
             logger.error("SQLException: " + e);
         }
         return dataTransfersArray;
     }
 
-    public ResultSet getResultSet(Connection connection) throws SQLException {
+    private ResultSet getResultSet(Connection connection) throws SQLException {
         PreparedStatement statement = connection.prepareStatement(
                 "Select books.title, author.firstName, author.lastName, bookgivetime.bookInstanceId, " +
                         "bookgivetime.giveTime, visitor.firstName, visitor.lastName, visitor.phoneNumber, visitor.email " +
@@ -39,7 +40,8 @@ public class TakenBooks {
         return statement.executeQuery();
     }
 
-    public ArrayList<DataTransfer> fillDataTransferArray(ResultSet resultSet, ArrayList<DataTransfer> dataTransferArrayList) throws SQLException {
+    private ArrayList<DataTransfer> fillDataTransferArray(ResultSet resultSet) throws SQLException {
+        ArrayList<DataTransfer> dataTransferArrayList = new ArrayList<>();
         while (resultSet.next()) {
             DataTransfer dataTransfer = new DataTransfer(
                     resultSet.getString("title"),
