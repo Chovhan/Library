@@ -34,7 +34,8 @@ public class TakenBooks {
                         "and bookgivetime.bookInstanceId = bookistance.bookInstanceId " +
                         "and bookistance.bookId = books.bookId " +
                         "and books.bookId = authoring.bookId " +
-                        "and authoring.authorId = author.authorId;");
+                        "and authoring.authorId = author.authorId " +
+                        "where bookistance.bookAvailibility = 'No';");
         return statement.executeQuery();
     }
 

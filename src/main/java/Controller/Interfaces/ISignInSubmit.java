@@ -1,6 +1,6 @@
 package Controller.Interfaces;
 
-public interface SignInSubmit {
+public interface ISignInSubmit {
 
     public byte[] getSalt();
 

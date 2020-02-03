@@ -1,5 +1,6 @@
 package Controller.Servlets;
 
+import Controller.Interfaces.ISignInSubmit;
 import Controller.SignInSubmit;
 import Model.DataBase.SignUser;
 import Model.Objects.Visitor;
@@ -27,7 +28,7 @@ public class SigninServlet extends HttpServlet {
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 
-        SignInSubmit signInSubmit = new SignInSubmit();
+        ISignInSubmit signInSubmit = new SignInSubmit();
         byte[] salt = signInSubmit.getSalt();
 
         Visitor visitor = new Visitor(req.getParameter("Signup__name"),

@@ -1,12 +1,13 @@
 package Controller;
 
+import Controller.Interfaces.ISignInSubmit;
 import Model.PasswordSalt;
 import org.apache.log4j.Logger;
 
 import java.security.NoSuchAlgorithmException;
 import java.util.Arrays;
 
-public class SignInSubmit implements Controller.Interfaces.SignInSubmit {
+public class SignInSubmit implements ISignInSubmit {
 
     private static final Logger logger = Logger.getLogger(SignInSubmit.class);
 

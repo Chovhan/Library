@@ -1,7 +1,6 @@
 package Controller;
 
 import Model.Objects.User;
-import org.junit.Assert;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

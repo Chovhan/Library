@@ -7,7 +7,7 @@ import org.apache.log4j.Logger;
 import java.security.NoSuchAlgorithmException;
 import java.util.Base64;
 
-public class LogInSubmit implements Controller.Interfaces.LogInSubmit {
+public class LogInSubmit implements Controller.Interfaces.ILogInSubmit {
 
     private static final Logger logger = Logger.getLogger(LogInSubmit.class);
 

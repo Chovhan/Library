@@ -1,5 +1,6 @@
 package Controller.Servlets;
 
+import Controller.Interfaces.ILogInSubmit;
 import Controller.LogInSubmit;
 import Model.DataBase.LoginUser;
 import Model.Objects.User;
@@ -30,7 +31,8 @@ public class LoginServlet extends HttpServlet {
         HttpSession loginSession = req.getSession();
         if (loginSession.getAttribute("User") == null | loginSession.getAttribute("Admin") == null){
             User user = new LoginUser().checkUserInDb(email);
-            if (new LogInSubmit().submitUser(password, user)){
+            ILogInSubmit logInSubmit = new LogInSubmit();
+            if (logInSubmit.submitUser(password, user)){
                 System.out.println(user.getRole());
                 loginSession.setAttribute(user.getRole(), user);
                 System.out.println(loginSession.getAttribute("Admin"));
